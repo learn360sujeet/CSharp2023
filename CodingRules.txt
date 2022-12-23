@@ -1,0 +1,12 @@
+1.Create the solution
+2. Make the folder(Solution folder) in VS
+3.create the project (cursored on thr solution folder)...PROJECT ...SL.NO..TOPICS..SUB-TOPICS......PROJECT LOCATION ...HOVER THE SPECIFIC FOLDER AND COPY THE PATH (CHECK THE MOTHER FOLDER IF ITS ON DESIRED LOCATION ).
+4. Save all amid check all are working or not.
+5.under GIT option PRESS on COMMIT (PUT THE DESIRED MESSAGE OVERHERE)...LAST COMMIT ALL.
+6.PUSH.
+7. ONCE CHECK THE GIT IF ALL ARE ALIGNED .
+
+
+..........................
+
+
