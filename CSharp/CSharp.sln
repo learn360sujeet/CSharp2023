@@ -5,23 +5,25 @@ VisualStudioVersion = 17.4.33205.214
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Variable", "Variable", "{04055465-5E1C-4594-B031-AE474944999D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "One_Variable_Simple", "..\Variable\One_Variable_Simple\One_Variable_Simple.csproj", "{7942F869-3C18-461F-A66B-E1709213BAD1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "One_Variable_Simple", "..\Variable\One_Variable_Simple\One_Variable_Simple.csproj", "{7942F869-3C18-461F-A66B-E1709213BAD1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Two_Variable_Constant", "..\Variable\Two_Variable_Constant\Two_Variable_Constant.csproj", "{9AEC2B3F-88C7-46EE-84F6-E83429089EDC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Two_Variable_Constant", "..\Variable\Two_Variable_Constant\Two_Variable_Constant.csproj", "{9AEC2B3F-88C7-46EE-84F6-E83429089EDC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Three_Variable_TypeCasting", "..\Variable\Three_Variable_TypeCasting\Three_Variable_TypeCasting.csproj", "{DBAB7BD2-1DA9-4F51-8688-D06E762F8C49}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Three_Variable_TypeCasting", "..\Variable\Three_Variable_TypeCasting\Three_Variable_TypeCasting.csproj", "{DBAB7BD2-1DA9-4F51-8688-D06E762F8C49}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Four_Variable_Boxing_Unboxing", "..\Variable\Four_Variable_Boxing_Unboxing\Four_Variable_Boxing_Unboxing.csproj", "{0B2891C1-75E0-413A-9781-C0CDDACA6B90}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Four_Variable_Boxing_Unboxing", "..\Variable\Four_Variable_Boxing_Unboxing\Four_Variable_Boxing_Unboxing.csproj", "{0B2891C1-75E0-413A-9781-C0CDDACA6B90}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Five_Variable_ReadOnlyVariable", "..\Variable\Five_Variable_ReadOnlyVariable\Five_Variable_ReadOnlyVariable.csproj", "{7E375D1A-01B0-4ABF-82BB-CCF8C6A8A23E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Five_Variable_ReadOnlyVariable", "..\Variable\Five_Variable_ReadOnlyVariable\Five_Variable_ReadOnlyVariable.csproj", "{7E375D1A-01B0-4ABF-82BB-CCF8C6A8A23E}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ConditionalStatements", "ConditionalStatements", "{DE60EA27-47E5-484B-A987-9D326CF7B45C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "One_ConditionalStatements_If", "..\ConditionalStatements\One_ConditionalStatements_If\One_ConditionalStatements_If.csproj", "{3C2CE696-96B0-4AEF-BF77-E1D9329C8B1B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "One_ConditionalStatements_If", "..\ConditionalStatements\One_ConditionalStatements_If\One_ConditionalStatements_If.csproj", "{3C2CE696-96B0-4AEF-BF77-E1D9329C8B1B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Two_ConditionalStatements_If_Else", "..\ConditionalStatements\Two_ConditionalStatements_If_Else\Two_ConditionalStatements_If_Else.csproj", "{23BA721A-04B5-4B76-B3A3-CA4D988CD5BA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Two_ConditionalStatements_If_Else", "..\ConditionalStatements\Two_ConditionalStatements_If_Else\Two_ConditionalStatements_If_Else.csproj", "{23BA721A-04B5-4B76-B3A3-CA4D988CD5BA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Six_Variable_UserInput", "..\Variable\Six_Variable_UserInput\Six_Variable_UserInput.csproj", "{62ABEE4A-E779-4D7B-A855-951783E5584D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Six_Variable_UserInput", "..\Variable\Six_Variable_UserInput\Six_Variable_UserInput.csproj", "{62ABEE4A-E779-4D7B-A855-951783E5584D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Seven_Variable_InsantceVariable", "..\Variable\Seven_Variable_InsantceVariable\Seven_Variable_InsantceVariable.csproj", "{0E13F747-97B0-4F74-B16E-34580BDD8B5C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -61,6 +63,10 @@ Global
 		{62ABEE4A-E779-4D7B-A855-951783E5584D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{62ABEE4A-E779-4D7B-A855-951783E5584D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{62ABEE4A-E779-4D7B-A855-951783E5584D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0E13F747-97B0-4F74-B16E-34580BDD8B5C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E13F747-97B0-4F74-B16E-34580BDD8B5C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E13F747-97B0-4F74-B16E-34580BDD8B5C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E13F747-97B0-4F74-B16E-34580BDD8B5C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -74,6 +80,7 @@ Global
 		{3C2CE696-96B0-4AEF-BF77-E1D9329C8B1B} = {DE60EA27-47E5-484B-A987-9D326CF7B45C}
 		{23BA721A-04B5-4B76-B3A3-CA4D988CD5BA} = {DE60EA27-47E5-484B-A987-9D326CF7B45C}
 		{62ABEE4A-E779-4D7B-A855-951783E5584D} = {04055465-5E1C-4594-B031-AE474944999D}
+		{0E13F747-97B0-4F74-B16E-34580BDD8B5C} = {04055465-5E1C-4594-B031-AE474944999D}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {1F6D93CC-614D-4276-871E-28311B846721}
