@@ -10,3 +10,13 @@
 ..........................
 
 
+
+===== Code Rule===================================================================
+1. Code kro 
+2. proper comment dalo 
+3. Link  dalo janha se pado ho 
+
+4. Interview banao usi samay code ke bad with proper screen shot 
+5. Git Push 
+6. Inform sujeet
+===== Code Rule===================================================================
