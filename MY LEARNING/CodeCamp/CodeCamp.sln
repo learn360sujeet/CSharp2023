@@ -19,6 +19,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Getting User Input", "Getti
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "One_UserInput", "Getting User Input\One_UserInput\One_UserInput.csproj", "{A0E6BD48-1D6A-4CE7-8972-A3765D3BD6EB}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Building Calculator", "Building Calculator", "{C17A612B-12E9-4A22-81C3-B75CE8C7CD69}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "One_Simple Cal", "CalculatorMaking\One_Simple Cal\One_Simple Cal.csproj", "{FB7FA17D-A9D6-4C53-9BA9-4AA2B6E9F552}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +49,10 @@ Global
 		{A0E6BD48-1D6A-4CE7-8972-A3765D3BD6EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A0E6BD48-1D6A-4CE7-8972-A3765D3BD6EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A0E6BD48-1D6A-4CE7-8972-A3765D3BD6EB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB7FA17D-A9D6-4C53-9BA9-4AA2B6E9F552}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB7FA17D-A9D6-4C53-9BA9-4AA2B6E9F552}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB7FA17D-A9D6-4C53-9BA9-4AA2B6E9F552}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB7FA17D-A9D6-4C53-9BA9-4AA2B6E9F552}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -55,6 +63,7 @@ Global
 		{9F22E52C-C607-4681-8677-50530977D254} = {A3936152-00FB-41A7-A1D8-7985A45C6CCD}
 		{88096AE2-1869-441F-9D19-1AA7A91BA427} = {A3936152-00FB-41A7-A1D8-7985A45C6CCD}
 		{A0E6BD48-1D6A-4CE7-8972-A3765D3BD6EB} = {21260015-4EA2-48CC-B57B-4066FA40C6BA}
+		{FB7FA17D-A9D6-4C53-9BA9-4AA2B6E9F552} = {C17A612B-12E9-4A22-81C3-B75CE8C7CD69}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {131986FE-BA5A-4F0D-AA17-686722E76D21}
