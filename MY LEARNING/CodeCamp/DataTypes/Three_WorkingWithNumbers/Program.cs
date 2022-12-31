@@ -5,8 +5,8 @@ class Numbers
     { 
         
         int num = 100;
-        //postfix increment
-        num++;
+        //postfix decresement
+        num--;
         Console.WriteLine(num);
         //int a = 5; int b = 7;
 
