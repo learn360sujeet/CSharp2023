@@ -23,7 +23,20 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Two_ConditionalStatements_I
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Six_Variable_UserInput", "..\Variable\Six_Variable_UserInput\Six_Variable_UserInput.csproj", "{62ABEE4A-E779-4D7B-A855-951783E5584D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Seven_Variable_InsantceVariable", "..\Variable\Seven_Variable_InsantceVariable\Seven_Variable_InsantceVariable.csproj", "{0E13F747-97B0-4F74-B16E-34580BDD8B5C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Seven_Variable_InsantceVariable", "..\Variable\Seven_Variable_InsantceVariable\Seven_Variable_InsantceVariable.csproj", "{0E13F747-97B0-4F74-B16E-34580BDD8B5C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Discission", "Discission", "{3E2894A5-BCE7-4AFD-BC12-CF5AFD36A0A4}"
+	ProjectSection(SolutionItems) = preProject
+		ConditionalStatment.txt = ConditionalStatment.txt
+		Operator.txt = Operator.txt
+		Variable Discussion.txt = Variable Discussion.txt
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Operator", "Operator", "{DFE2D59D-3178-423E-814A-B5A98AD448AE}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "three_ConditionalStatement_Ternary", "..\ConditionalStatements\three_ConditionalStatement_Ternary\three_ConditionalStatement_Ternary.csproj", "{2B1B84D6-32F7-4F69-AF49-3CA0E29FA172}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "One_Operator_Arithmetic", "..\Operator\One_Operator_Arithmetic\One_Operator_Arithmetic.csproj", "{D89299D9-62DB-4295-98B8-E116A3AC6D4F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -67,6 +80,14 @@ Global
 		{0E13F747-97B0-4F74-B16E-34580BDD8B5C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0E13F747-97B0-4F74-B16E-34580BDD8B5C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0E13F747-97B0-4F74-B16E-34580BDD8B5C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2B1B84D6-32F7-4F69-AF49-3CA0E29FA172}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B1B84D6-32F7-4F69-AF49-3CA0E29FA172}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B1B84D6-32F7-4F69-AF49-3CA0E29FA172}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B1B84D6-32F7-4F69-AF49-3CA0E29FA172}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D89299D9-62DB-4295-98B8-E116A3AC6D4F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D89299D9-62DB-4295-98B8-E116A3AC6D4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D89299D9-62DB-4295-98B8-E116A3AC6D4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D89299D9-62DB-4295-98B8-E116A3AC6D4F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -81,6 +102,8 @@ Global
 		{23BA721A-04B5-4B76-B3A3-CA4D988CD5BA} = {DE60EA27-47E5-484B-A987-9D326CF7B45C}
 		{62ABEE4A-E779-4D7B-A855-951783E5584D} = {04055465-5E1C-4594-B031-AE474944999D}
 		{0E13F747-97B0-4F74-B16E-34580BDD8B5C} = {04055465-5E1C-4594-B031-AE474944999D}
+		{2B1B84D6-32F7-4F69-AF49-3CA0E29FA172} = {DE60EA27-47E5-484B-A987-9D326CF7B45C}
+		{D89299D9-62DB-4295-98B8-E116A3AC6D4F} = {DFE2D59D-3178-423E-814A-B5A98AD448AE}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {1F6D93CC-614D-4276-871E-28311B846721}

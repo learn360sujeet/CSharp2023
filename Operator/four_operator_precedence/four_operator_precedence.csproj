@@ -7,8 +7,4 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
-  <ItemGroup>
-    <ProjectReference Include="..\three_ConditionalStatement_Ternary\three_ConditionalStatement_Ternary.csproj" />
-  </ItemGroup>
-
 </Project>

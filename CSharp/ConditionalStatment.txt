@@ -1,0 +1,65 @@
+
+
+1. we need consitional statment to do some action or task if and only if certain condition is met
+
+Example - 
+1. If age is 18 years or above then only vote can be given 
+2. If you take admision then you will take class 
+3. If you are 18 + and you are indian citizen
+
+
+=============================
+
+1. Option 1 
+
+	If ()
+	{
+
+	}
+
+2. Option 2 - else is optional 
+
+	If()
+	{
+	}
+	else 
+	{
+	}
+
+3. Option 3 - nested - else is optional 
+
+    If()
+	{
+	}
+	else if 
+	{
+	}
+	else if 
+	{
+	}
+	else if 
+	{
+	}
+	else if 
+	{
+	}
+	else 
+	{
+	}
+
+4. option- 4 
+
+Conditional statment + Operator 
+
+string c="indian"
+if(age >18 && c="indian" && state ="Bihar" )
+{
+}
+
+
+if(category ="SC" || category ="ST" )
+{
+
+}
+
+if(age != 18)
