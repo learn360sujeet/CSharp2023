@@ -9,9 +9,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "One_Variable_", "Variable\O
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DataTypes", "DataTypes", "{A3936152-00FB-41A7-A1D8-7985A45C6CCD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "One_Datatypes", "DataTypes\One_Datatypes\One_Datatypes.csproj", "{3A5B4FE8-406B-489F-A330-05A907599D8F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "One_Datatypes", "DataTypes\One_Datatypes\One_Datatypes.csproj", "{3A5B4FE8-406B-489F-A330-05A907599D8F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Two_WorkingWithStrings", "DataTypes\Two_WorkingWithStrings\Two_WorkingWithStrings.csproj", "{9F22E52C-C607-4681-8677-50530977D254}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Two_WorkingWithStrings", "DataTypes\Two_WorkingWithStrings\Two_WorkingWithStrings.csproj", "{9F22E52C-C607-4681-8677-50530977D254}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Three_WorkingWithNumbers", "DataTypes\Three_WorkingWithNumbers\Three_WorkingWithNumbers.csproj", "{88096AE2-1869-441F-9D19-1AA7A91BA427}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -31,6 +33,10 @@ Global
 		{9F22E52C-C607-4681-8677-50530977D254}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9F22E52C-C607-4681-8677-50530977D254}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9F22E52C-C607-4681-8677-50530977D254}.Release|Any CPU.Build.0 = Release|Any CPU
+		{88096AE2-1869-441F-9D19-1AA7A91BA427}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88096AE2-1869-441F-9D19-1AA7A91BA427}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88096AE2-1869-441F-9D19-1AA7A91BA427}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88096AE2-1869-441F-9D19-1AA7A91BA427}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -39,6 +45,7 @@ Global
 		{EAD20D5B-0FC2-483A-80E8-3F1705AE24F6} = {4386E58D-D770-4E69-8D99-0323BCEB3348}
 		{3A5B4FE8-406B-489F-A330-05A907599D8F} = {A3936152-00FB-41A7-A1D8-7985A45C6CCD}
 		{9F22E52C-C607-4681-8677-50530977D254} = {A3936152-00FB-41A7-A1D8-7985A45C6CCD}
+		{88096AE2-1869-441F-9D19-1AA7A91BA427} = {A3936152-00FB-41A7-A1D8-7985A45C6CCD}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {131986FE-BA5A-4F0D-AA17-686722E76D21}
