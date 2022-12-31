@@ -4,7 +4,8 @@ class MethodLearning
 {
     //Main method 
     static void Main(string[] args)
-    {
+    { 
+        //call the methid into main method to perform the task 
         BholaPrasad();
         Console.ReadLine(); 
 
