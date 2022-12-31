@@ -35,6 +35,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mthod Concepts check", "Met
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Two_Method_Prametrized", "Method\Two_Method_Prametrized\Two_Method_Prametrized.csproj", "{9848981F-0543-46DD-8B5C-CE196856625D}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Loop", "Loop", "{3D3DD7C8-758A-4221-A133-E874FD8C3625}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "One_Loop_WhileLoop", "Loop\One_Loop_WhileLoop\One_Loop_WhileLoop.csproj", "{B57B0E5E-6F9A-4EC6-9AD9-B234DCCDC90E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -81,6 +85,10 @@ Global
 		{9848981F-0543-46DD-8B5C-CE196856625D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9848981F-0543-46DD-8B5C-CE196856625D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9848981F-0543-46DD-8B5C-CE196856625D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B57B0E5E-6F9A-4EC6-9AD9-B234DCCDC90E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B57B0E5E-6F9A-4EC6-9AD9-B234DCCDC90E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B57B0E5E-6F9A-4EC6-9AD9-B234DCCDC90E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B57B0E5E-6F9A-4EC6-9AD9-B234DCCDC90E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -96,6 +104,7 @@ Global
 		{89D858E5-35BD-4BBC-BE17-CB9289C5F087} = {6CEA0699-C55C-4BAB-9FBD-EFA83D4858AB}
 		{60234818-1D9E-4EBC-8E1F-5106D19A8454} = {6CEA0699-C55C-4BAB-9FBD-EFA83D4858AB}
 		{9848981F-0543-46DD-8B5C-CE196856625D} = {6CEA0699-C55C-4BAB-9FBD-EFA83D4858AB}
+		{B57B0E5E-6F9A-4EC6-9AD9-B234DCCDC90E} = {3D3DD7C8-758A-4221-A133-E874FD8C3625}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {131986FE-BA5A-4F0D-AA17-686722E76D21}
