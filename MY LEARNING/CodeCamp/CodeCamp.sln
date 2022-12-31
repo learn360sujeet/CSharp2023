@@ -15,6 +15,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Two_WorkingWithStrings", "D
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Three_WorkingWithNumbers", "DataTypes\Three_WorkingWithNumbers\Three_WorkingWithNumbers.csproj", "{88096AE2-1869-441F-9D19-1AA7A91BA427}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Getting User Input", "Getting User Input", "{21260015-4EA2-48CC-B57B-4066FA40C6BA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "One_UserInput", "Getting User Input\One_UserInput\One_UserInput.csproj", "{A0E6BD48-1D6A-4CE7-8972-A3765D3BD6EB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -37,6 +41,10 @@ Global
 		{88096AE2-1869-441F-9D19-1AA7A91BA427}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{88096AE2-1869-441F-9D19-1AA7A91BA427}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{88096AE2-1869-441F-9D19-1AA7A91BA427}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A0E6BD48-1D6A-4CE7-8972-A3765D3BD6EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0E6BD48-1D6A-4CE7-8972-A3765D3BD6EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0E6BD48-1D6A-4CE7-8972-A3765D3BD6EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0E6BD48-1D6A-4CE7-8972-A3765D3BD6EB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -46,6 +54,7 @@ Global
 		{3A5B4FE8-406B-489F-A330-05A907599D8F} = {A3936152-00FB-41A7-A1D8-7985A45C6CCD}
 		{9F22E52C-C607-4681-8677-50530977D254} = {A3936152-00FB-41A7-A1D8-7985A45C6CCD}
 		{88096AE2-1869-441F-9D19-1AA7A91BA427} = {A3936152-00FB-41A7-A1D8-7985A45C6CCD}
+		{A0E6BD48-1D6A-4CE7-8972-A3765D3BD6EB} = {21260015-4EA2-48CC-B57B-4066FA40C6BA}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {131986FE-BA5A-4F0D-AA17-686722E76D21}
