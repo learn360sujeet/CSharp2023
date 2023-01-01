@@ -13,43 +13,47 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "One_Datatypes", "DataTypes\
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Two_WorkingWithStrings", "DataTypes\Two_WorkingWithStrings\Two_WorkingWithStrings.csproj", "{9F22E52C-C607-4681-8677-50530977D254}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Three_WorkingWithNumbers", "DataTypes\Three_WorkingWithNumbers\Three_WorkingWithNumbers.csproj", "{88096AE2-1869-441F-9D19-1AA7A91BA427}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Three_WorkingWithNumbers", "DataTypes\Three_WorkingWithNumbers\Three_WorkingWithNumbers.csproj", "{88096AE2-1869-441F-9D19-1AA7A91BA427}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Getting User Input", "Getting User Input", "{21260015-4EA2-48CC-B57B-4066FA40C6BA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "One_UserInput", "Getting User Input\One_UserInput\One_UserInput.csproj", "{A0E6BD48-1D6A-4CE7-8972-A3765D3BD6EB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "One_UserInput", "Getting User Input\One_UserInput\One_UserInput.csproj", "{A0E6BD48-1D6A-4CE7-8972-A3765D3BD6EB}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Building Calculator", "Building Calculator", "{C17A612B-12E9-4A22-81C3-B75CE8C7CD69}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "One_Simple Cal", "CalculatorMaking\One_Simple Cal\One_Simple Cal.csproj", "{FB7FA17D-A9D6-4C53-9BA9-4AA2B6E9F552}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "One_Simple Cal", "CalculatorMaking\One_Simple Cal\One_Simple Cal.csproj", "{FB7FA17D-A9D6-4C53-9BA9-4AA2B6E9F552}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Array", "Array", "{7D32133F-C4F6-4F04-BCD9-46EAACFBDD9F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "One_Array", "Array\One_Array\One_Array.csproj", "{0B2D60A3-9BDB-47B4-8D1D-0FDA08DAA8A0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "One_Array", "Array\One_Array\One_Array.csproj", "{0B2D60A3-9BDB-47B4-8D1D-0FDA08DAA8A0}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Method", "Method", "{6CEA0699-C55C-4BAB-9FBD-EFA83D4858AB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "One_Method", "Method\One_Method\One_Method.csproj", "{89D858E5-35BD-4BBC-BE17-CB9289C5F087}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "One_Method", "Method\One_Method\One_Method.csproj", "{89D858E5-35BD-4BBC-BE17-CB9289C5F087}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mthod Concepts check", "Method\Mthod Concepts check\Mthod Concepts check.csproj", "{60234818-1D9E-4EBC-8E1F-5106D19A8454}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Mthod Concepts check", "Method\Mthod Concepts check\Mthod Concepts check.csproj", "{60234818-1D9E-4EBC-8E1F-5106D19A8454}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Two_Method_Prametrized", "Method\Two_Method_Prametrized\Two_Method_Prametrized.csproj", "{9848981F-0543-46DD-8B5C-CE196856625D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Two_Method_Prametrized", "Method\Two_Method_Prametrized\Two_Method_Prametrized.csproj", "{9848981F-0543-46DD-8B5C-CE196856625D}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Loop", "Loop", "{3D3DD7C8-758A-4221-A133-E874FD8C3625}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "One_Loop_WhileLoop", "Loop\One_Loop_WhileLoop\One_Loop_WhileLoop.csproj", "{B57B0E5E-6F9A-4EC6-9AD9-B234DCCDC90E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "One_Loop_WhileLoop", "Loop\One_Loop_WhileLoop\One_Loop_WhileLoop.csproj", "{B57B0E5E-6F9A-4EC6-9AD9-B234DCCDC90E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Two_DoWhile", "Loop\Two_DoWhile\Two_DoWhile.csproj", "{7D747DED-CEFE-44A6-B8D0-62034BA060E8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Two_DoWhile", "Loop\Two_DoWhile\Two_DoWhile.csproj", "{7D747DED-CEFE-44A6-B8D0-62034BA060E8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Three_Loop_ForLoop", "Loop\Three_Loop_ForLoop\Three_Loop_ForLoop.csproj", "{D59BFBA6-BB8E-4C30-A42D-5118562B63DC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Three_Loop_ForLoop", "Loop\Three_Loop_ForLoop\Three_Loop_ForLoop.csproj", "{D59BFBA6-BB8E-4C30-A42D-5118562B63DC}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Class_Object", "Class_Object", "{B6E0260E-33AD-4CD4-9F59-0B9969DCC98A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "One_Class_Object", "Class_Object\One_Class_Object\One_Class_Object.csproj", "{D966CB88-4534-4608-B6EA-E667C27377CF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "One_Class_Object", "Class_Object\One_Class_Object\One_Class_Object.csproj", "{D966CB88-4534-4608-B6EA-E667C27377CF}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Constructor", "Constructor", "{C885C1B1-4549-47C2-BF1F-1E29A4D80A7C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "One_Constructor", "Constructor\One_Constructor\One_Constructor.csproj", "{56A26F80-403D-4213-92B4-C3DC18A4241C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "One_Constructor", "Constructor\One_Constructor\One_Constructor.csproj", "{56A26F80-403D-4213-92B4-C3DC18A4241C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Design Pattern", "Design Pattern", "{083132CB-A95D-44DE-AF2D-26A4EAB38272}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "One_Pattern_Design", "Patterns\One_Pattern_Design\One_Pattern_Design.csproj", "{1A4C135B-919D-402A-9A7A-65BCA9BD90C2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -117,6 +121,10 @@ Global
 		{56A26F80-403D-4213-92B4-C3DC18A4241C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{56A26F80-403D-4213-92B4-C3DC18A4241C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{56A26F80-403D-4213-92B4-C3DC18A4241C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1A4C135B-919D-402A-9A7A-65BCA9BD90C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A4C135B-919D-402A-9A7A-65BCA9BD90C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A4C135B-919D-402A-9A7A-65BCA9BD90C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A4C135B-919D-402A-9A7A-65BCA9BD90C2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -137,6 +145,7 @@ Global
 		{D59BFBA6-BB8E-4C30-A42D-5118562B63DC} = {3D3DD7C8-758A-4221-A133-E874FD8C3625}
 		{D966CB88-4534-4608-B6EA-E667C27377CF} = {B6E0260E-33AD-4CD4-9F59-0B9969DCC98A}
 		{56A26F80-403D-4213-92B4-C3DC18A4241C} = {C885C1B1-4549-47C2-BF1F-1E29A4D80A7C}
+		{1A4C135B-919D-402A-9A7A-65BCA9BD90C2} = {083132CB-A95D-44DE-AF2D-26A4EAB38272}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {131986FE-BA5A-4F0D-AA17-686722E76D21}
