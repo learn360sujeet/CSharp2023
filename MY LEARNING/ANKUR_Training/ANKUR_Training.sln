@@ -15,6 +15,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DataType_Variable", "DataTy
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "One_DataType_Variable", "DataType_Variable\One_DataType_Variable\One_DataType_Variable.csproj", "{9715E5ED-940D-49C6-B7C1-921BA0CF3FDA}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Escape_Sequence", "Escape_Sequence", "{26687162-807A-404C-B135-1C844EB9E460}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "One_EscapeSequence", "EscapeSequence\One_EscapeSequence\One_EscapeSequence.csproj", "{D180D2BA-C2F4-4C01-9E04-7E4A7C7B0008}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +37,10 @@ Global
 		{9715E5ED-940D-49C6-B7C1-921BA0CF3FDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9715E5ED-940D-49C6-B7C1-921BA0CF3FDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9715E5ED-940D-49C6-B7C1-921BA0CF3FDA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D180D2BA-C2F4-4C01-9E04-7E4A7C7B0008}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D180D2BA-C2F4-4C01-9E04-7E4A7C7B0008}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D180D2BA-C2F4-4C01-9E04-7E4A7C7B0008}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D180D2BA-C2F4-4C01-9E04-7E4A7C7B0008}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -41,6 +49,7 @@ Global
 		{FEDCF602-695F-4BE3-8ACF-3604FBEC1F5D} = {09F05827-C0D2-4F54-9B55-0EFC2CD7DAFA}
 		{27936281-9824-43D3-A53E-96B13F1AB193} = {C67B0F14-C4CB-4FFE-AB43-9C645150067D}
 		{9715E5ED-940D-49C6-B7C1-921BA0CF3FDA} = {8DA72457-8F1E-4288-9E3A-FE2524D7DF79}
+		{D180D2BA-C2F4-4C01-9E04-7E4A7C7B0008} = {26687162-807A-404C-B135-1C844EB9E460}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {6854D967-A5EE-40E2-8994-B40DB7DD5831}
