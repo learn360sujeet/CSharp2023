@@ -29,6 +29,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "One_If_Condition", "Conditi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Two_Nested If", "Conditional Statement\Two_Nested If\Two_Nested If.csproj", "{829DFDB4-27A9-4926-9798-21F9AFCA3667}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Three_SwitchStatment", "ConditionalStatments\Three_SwitchStatment\Three_SwitchStatment.csproj", "{BF2F2D81-0480-404F-8FB2-D229903038DF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +65,10 @@ Global
 		{829DFDB4-27A9-4926-9798-21F9AFCA3667}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{829DFDB4-27A9-4926-9798-21F9AFCA3667}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{829DFDB4-27A9-4926-9798-21F9AFCA3667}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BF2F2D81-0480-404F-8FB2-D229903038DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF2F2D81-0480-404F-8FB2-D229903038DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF2F2D81-0480-404F-8FB2-D229903038DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF2F2D81-0480-404F-8FB2-D229903038DF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -75,6 +81,7 @@ Global
 		{06BC844A-3BF4-4F08-8DEB-38F0F07A4910} = {46A11E6B-345C-43D7-8207-B939A4483CFF}
 		{C0F1411D-47A5-409F-9960-11B2CC0FB1F4} = {8EE3F2E8-3B50-4212-B528-1FEF1E5D28D0}
 		{829DFDB4-27A9-4926-9798-21F9AFCA3667} = {8EE3F2E8-3B50-4212-B528-1FEF1E5D28D0}
+		{BF2F2D81-0480-404F-8FB2-D229903038DF} = {8EE3F2E8-3B50-4212-B528-1FEF1E5D28D0}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {6854D967-A5EE-40E2-8994-B40DB7DD5831}
