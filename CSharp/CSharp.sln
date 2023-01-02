@@ -54,7 +54,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "one_array_SingleDimensional
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "one_loop_forloop", "..\loop\one_loop_forloop\one_loop_forloop.csproj", "{EAE7ABFC-0535-484A-A284-11738662FBCC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "two_loop_And_array", "..\loop\two_loop_And_array\two_loop_And_array.csproj", "{ECE67C3E-E135-400C-8661-C815481319B2}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "two_Forloop_And_array", "..\loop\two_loop_And_array\two_Forloop_And_array.csproj", "{ECE67C3E-E135-400C-8661-C815481319B2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
