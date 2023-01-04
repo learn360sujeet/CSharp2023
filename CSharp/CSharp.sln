@@ -52,7 +52,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Array", "Array", "{A9C8A72A
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "one_array_SingleDimensional", "..\Array\one_array_SingleDimensional\one_array_SingleDimensional.csproj", "{57E932BC-F155-40A2-8DA0-7E852FAF89C6}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "one_loop_forloop", "..\loop\one_loop_forloop\one_loop_forloop.csproj", "{EAE7ABFC-0535-484A-A284-11738662FBCC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "one_loop_Whileloop", "..\loop\one_loop_forloop\one_loop_Whileloop.csproj", "{EAE7ABFC-0535-484A-A284-11738662FBCC}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "two_Forloop_And_array", "..\loop\two_loop_And_array\two_Forloop_And_array.csproj", "{ECE67C3E-E135-400C-8661-C815481319B2}"
 EndProject
