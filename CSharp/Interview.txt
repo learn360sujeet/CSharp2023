@@ -1,0 +1,5 @@
+
+1. What is break inside loop
+2. what is contiue inside loop 
+3. what is difference betwwen 
+ --if {} and if() 

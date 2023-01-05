@@ -6,7 +6,15 @@ int age = 18;
 if (age >= 18)
 {
     Console.WriteLine("you are allowed for vote");
+    Console.WriteLine("123");
 }
+
+
+
+if (age >= 18)
+    Console.WriteLine("you are allowed for vote");
+    Console.WriteLine("123");
+
 
 //=======================  only If-else =======================
 

@@ -28,6 +28,7 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Discission", "Discission", "{3E2894A5-BCE7-4AFD-BC12-CF5AFD36A0A4}"
 	ProjectSection(SolutionItems) = preProject
 		ConditionalStatment.txt = ConditionalStatment.txt
+		Interview.txt = Interview.txt
 		Operator.txt = Operator.txt
 		Variable Discussion.txt = Variable Discussion.txt
 	EndProjectSection
@@ -60,13 +61,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Two_Loop_While", "..\loop\T
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Three_Loop_Do_While", "..\loop\Three_Loop_Do_While\Three_Loop_Do_While.csproj", "{CFF24943-0B64-47C5-97D6-EA1A490B6E64}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "One_Array_ForLoop", "..\Array_Loop\One_Array_ForLoop\One_Array_ForLoop.csproj", "{1CCB381D-20A1-4AA1-9D3B-284ECE711E96}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "One_Array_ForLoop", "..\Array_Loop\One_Array_ForLoop\One_Array_ForLoop.csproj", "{1CCB381D-20A1-4AA1-9D3B-284ECE711E96}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Two_Array_WhileLoop", "..\Array_Loop\Two_Array_WhileLoop\Two_Array_WhileLoop.csproj", "{8D68740C-787C-47AD-8AB2-8F80BE0A4755}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Two_Array_WhileLoop", "..\Array_Loop\Two_Array_WhileLoop\Two_Array_WhileLoop.csproj", "{8D68740C-787C-47AD-8AB2-8F80BE0A4755}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Three_Array_DoWhile", "..\Array_Loop\Three_Array_DoWhile\Three_Array_DoWhile.csproj", "{3748C58D-7524-4AAA-A456-5DFC80544754}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Three_Array_DoWhile", "..\Array_Loop\Three_Array_DoWhile\Three_Array_DoWhile.csproj", "{3748C58D-7524-4AAA-A456-5DFC80544754}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Four_Array_IfLoop", "..\Array_Loop\Four_Array_IfLoop\Four_Array_IfLoop.csproj", "{621E832B-E2FF-41ED-84CE-1BF10F6DF711}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Four_Array_IfLoop", "..\Array_Loop\Four_Array_IfLoop\Four_Array_IfLoop.csproj", "{621E832B-E2FF-41ED-84CE-1BF10F6DF711}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
