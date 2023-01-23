@@ -1,0 +1,29 @@
+
+
+1. WHat is Access Specifier 
+    --Access Specifier help us to define if member of class can be accessed out side of class or not
+        
+
+2. Kinds of Access Specifier 
+
+    -public 
+    ---- Public access Specifier help us to allow member of class to be accssed outside of class
+    ---- We can call/access public member of class from other class 
+
+    -private 
+    ---- private access Specifier help us to not allow member of class to be accssed outside of class
+    ---- We can not call/access private member of class from other class 
+
+
+    -Protected 
+    --
+
+    -Internal 
+    --
+
+    -Protected internal
+    --
+
+3. What is default access specifier 
+-- Variable & Method - Private 
+-- Class - internal

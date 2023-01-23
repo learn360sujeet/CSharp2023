@@ -1,24 +1,10 @@
 ﻿
-using one_access_Specifier;
+using one_access_Specifier;// Namespace
 
-EmployeeV10 v = new EmployeeV10();
-
-v.a = 10;
+Employee_AccessSpecifier obj = new Employee_AccessSpecifier();
 
 
+//obj.Display();// accessing the method / accessing the member of class 
 
 
-
-// public - able to access from out side of class 
-
-
-// private -
-   //1. not able to access from out side of class . 2. Only allowed to be accessed inside class
-
-
-
-// Protected 
-
-
-// Internal 
 
