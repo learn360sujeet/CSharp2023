@@ -39,10 +39,6 @@ namespace Two_Exception_CatchBlock_understanding
 
             }
 
-           
-
-
-
             catch (SystemException ex) // If any error occur in try block then catch block will be executed/called
             {
 
@@ -52,7 +48,9 @@ namespace Two_Exception_CatchBlock_understanding
             {
 
             }
-
+            // in exception hurarchy
+            // >> always child exception  will be written first and parent  exception will be written last
+            // >> why we will right parent at the last 
 
         }
     }

@@ -56,10 +56,10 @@ namespace one_ExceptionHandling_Simple
             }
             catch(Exception ex) // If any error occur in try block then catch block will be executed/called
             {
-
+                // Exception class is base class of all exception 
+                // exception  class give message property which contains a description of the error,
+                // exception  class  give StackTrace property, which contains the call stack at the time the exception was thrown
                 Console.WriteLine("Some issue happended , please try again");
-
-
             }
 
 
