@@ -9,7 +9,8 @@ namespace nine_constructore
     // 1. What is constrcutor 
     // 2. What is condtion to create a object when you have constrcutor with paramter //new EmployeeConstructor(10, 123456789);
     // 3. What is default constrcutor
-    // 4. 
+    // 4. Can we have many constrcutor - constrcutor overloading 
+
     internal class EmployeeConstructor
     {
 
