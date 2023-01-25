@@ -108,6 +108,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Two_Exception_CatchBlock_un
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "three_exception_Catch_hierarchy", "..\ExceptionHandling\three_exception_Catch_hierarchy\three_exception_Catch_hierarchy.csproj", "{F01345D9-7E9B-4180-A558-AE6DAE035263}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "nine_constructore", "..\Method\nine_constructore\nine_constructore.csproj", "{9761EC5D-1E34-481A-A99F-7ED58C953E6C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -262,6 +264,10 @@ Global
 		{F01345D9-7E9B-4180-A558-AE6DAE035263}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F01345D9-7E9B-4180-A558-AE6DAE035263}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F01345D9-7E9B-4180-A558-AE6DAE035263}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9761EC5D-1E34-481A-A99F-7ED58C953E6C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9761EC5D-1E34-481A-A99F-7ED58C953E6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9761EC5D-1E34-481A-A99F-7ED58C953E6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9761EC5D-1E34-481A-A99F-7ED58C953E6C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -304,6 +310,7 @@ Global
 		{26C60D5F-4539-4B96-9FA2-794204D683A1} = {5DD21394-2BAB-4FCF-88A3-F428704028EF}
 		{527639A7-2BDF-4D4D-A45C-745D402846CC} = {5DD21394-2BAB-4FCF-88A3-F428704028EF}
 		{F01345D9-7E9B-4180-A558-AE6DAE035263} = {5DD21394-2BAB-4FCF-88A3-F428704028EF}
+		{9761EC5D-1E34-481A-A99F-7ED58C953E6C} = {C329FD3C-A9BE-4760-BB0E-FD60F786D943}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {1F6D93CC-614D-4276-871E-28311B846721}
