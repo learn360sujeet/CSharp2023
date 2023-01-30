@@ -6,13 +6,11 @@
 
 
 
-Write a C# program that uses a for loop to print the numbers from 1 to 10.
+Write a C# program that uses a for loop to print the numbers from 1 to 10. - done 
 
 Write a C# program that uses a while loop to print the numbers from 1 to 10 in reverse order.
 
 Write a C# program that uses a for loop to calculate the factorial of a given number.
-
-Write a C# program that uses a while loop to find the first 10 fibonacci numbers.
 
 Write a C# program that uses a for loop to print the first 10 even numbers.
 
@@ -20,4 +18,12 @@ Write a C# program that uses a while loop to find and print the sum of all even 
 
 Write a C# program that uses a for loop to find and print the product of all odd numbers between 1 and 10.
 
-Write a C# program that uses a nested for loop to print a multiplication table for the numbers 1 to 10.
+
+
+================================================================
+Print all numbers from 1 to 10 using a for loop
+Print all even numbers from 2 to 20 using a while loop
+Print all elements in a list of strings using a foreach loop
+Print the sum of all elements in an array of integers using a for loop
+Print every third number from 1 to 30 using a for loop
+=====================================================================
