@@ -124,9 +124,9 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Inheritance", "Inheritance"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Polymorphism", "Polymorphism", "{5A5DBFA4-990B-4969-849D-2ECD875EAB39}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "one_Encapsulation_simple", "..\OOPS\Encapsulation\one_Encapsulation_simple\one_Encapsulation_simple.csproj", "{91CFB1A3-7B95-485E-B77F-E5022EDD7F2D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "one_Encapsulation_simple", "..\OOPS\Encapsulation\one_Encapsulation_simple\one_Encapsulation_simple.csproj", "{91CFB1A3-7B95-485E-B77F-E5022EDD7F2D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "one_Inheritance_Simple", "..\OOPS\Inheritance\one_Inheritance_Simple\one_Inheritance_Simple.csproj", "{A6F2644A-7E62-496C-818F-D52B44985A7E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "one_Inheritance_Simple", "..\OOPS\Inheritance\one_Inheritance_Simple\one_Inheritance_Simple.csproj", "{A6F2644A-7E62-496C-818F-D52B44985A7E}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Practice_Practice_Practice", "Practice_Practice_Practice", "{CE470220-B257-4400-A32A-807ED3909A9E}"
 EndProject
@@ -134,6 +134,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Loop", "Loop", "{E21F0087-6
 	ProjectSection(SolutionItems) = preProject
 		Loop practice question.txt = Loop practice question.txt
 	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "One_Practice_For", "..\Practice_Concepts\Loop\One_Practice_For\One_Practice_For.csproj", "{CF62781E-37DA-4C9A-BF8D-6EE4594593EE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -305,6 +307,10 @@ Global
 		{A6F2644A-7E62-496C-818F-D52B44985A7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A6F2644A-7E62-496C-818F-D52B44985A7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A6F2644A-7E62-496C-818F-D52B44985A7E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CF62781E-37DA-4C9A-BF8D-6EE4594593EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF62781E-37DA-4C9A-BF8D-6EE4594593EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF62781E-37DA-4C9A-BF8D-6EE4594593EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF62781E-37DA-4C9A-BF8D-6EE4594593EE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -356,6 +362,7 @@ Global
 		{91CFB1A3-7B95-485E-B77F-E5022EDD7F2D} = {70FD5D7A-9AC5-40FD-9BC1-4AC8A39C1441}
 		{A6F2644A-7E62-496C-818F-D52B44985A7E} = {AC232B8E-BE87-4770-9620-594CA1BE4E4A}
 		{E21F0087-6FE0-48C1-85B8-93971972E44C} = {CE470220-B257-4400-A32A-807ED3909A9E}
+		{CF62781E-37DA-4C9A-BF8D-6EE4594593EE} = {E21F0087-6FE0-48C1-85B8-93971972E44C}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {1F6D93CC-614D-4276-871E-28311B846721}
